@@ -23,3 +23,13 @@ Im a passionate and creative software engineer with a strong focus on pragmatism
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <br />
 
+#
+
+<details>
+ <summary><h3>My Project Experience</h3></summary>
+ <ul>
+   <li>Jan 2018 - April 2020 Digital Commerce</li>
+   <li>May 2020 - August 2022 E</li>
+   <li>August 2022 - November 2022 Bank</li>
+</ul>
+
