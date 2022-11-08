@@ -31,18 +31,18 @@ Im a passionate and creative software engineer with a strong focus on pragmatism
   </summary>
   <ul>
     <li>
-      <title>August 2022 - November 2022</title><br />
+      <h6>August 2022 - November 2022</h6><br />
       Application for Bank<br />
       <strong>FULLSTACK DEVELOPER</strong>
     </li>
     <li>
-      <title>May 2020 - August 2022</title><br />
+      <h6>May 2020 - August 2022</h6><br />
       Customer && CRM portal for Eurowag<br />
       <i>Frontend development of various web sites.</i><br />
       <strong>FRONTEND DEVELOPER</strong>
     </li>
     <li>
-      <title>Jan 2018 - April 2020</title><br />
+      <h6>Jan 2018 - April 2020</h6><br />
       Digital Commerce Solution for Volvo Cars Corporation<br />
       <i>Custom CMS development Backend and Frontend of various web sites.</i><br />
       <strong>FULLSTACK DEVELOPER</strong>
