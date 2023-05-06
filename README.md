@@ -31,7 +31,12 @@ Im a passionate and creative software engineer with a strong focus on pragmatism
   </summary>
   <ul>
     <li>
-      <h6>August 2022 - November 2022</h6><br />
+      <h6>February 2023 - Now</h6><br />
+       Asahi E-commerce portal<br />
+      <strong>FULLSTACK DEVELOPER (Vue.js + .NET)</strong>
+    </li>
+    <li>
+      <h6>August 2022 - February 2023</h6><br />
       Application for Bank<br />
       <strong>FULLSTACK DEVELOPER</strong>
     </li>
